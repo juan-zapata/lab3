@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "lab3"
+  "defaultProject": "lab3",
+  "cli": {
+    "analytics": "17261418-3815-4e11-a1d3-b947cd5d1d4c"
+  }
 }
